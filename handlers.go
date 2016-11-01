@@ -7,5 +7,5 @@ type Handlers struct {
 	DB *gorm.DB
 }
 
-// All common route handlers that do not relate to a specific type
+// All common route handlers that do not relate to a specific model
 // should live here
