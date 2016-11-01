@@ -7,11 +7,6 @@ import (
 	"github.com/julienschmidt/httprouter"
 )
 
-// FindOrganization should return a single Organization found by the ID in the route
-func FindOrganization(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	w.WriteHeader(http.StatusOK)
-}
-
 func main() {
 	db := DB{}
 	db.init()
