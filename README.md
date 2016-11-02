@@ -1,7 +1,7 @@
 # covman
 
 ## Benchmarks
-**Golang** | [Ruby (Rails 5)](https://github.com/migeorge/covman-rb)
+**Golang** | [Ruby (Rails 5)](https://github.com/migeorge/covman-rb#benchmarks)
 
 ```
 This is ApacheBench, Version 2.3 <$Revision: 1748469 $>
